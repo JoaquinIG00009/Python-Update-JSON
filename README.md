@@ -1,6 +1,6 @@
 # Python-Update-JSON
 
-The aim of the challenge is to prove the capabilities of the applicant to develop a solution to aggregate data from 3 apis (or more) and return the result in a single endpoint using a local webserver.
+The aim of the challenge is to develop a solution to aggregate data from 3 apis (or more) and return the result in a single endpoint using a local webserver.
 
 -- Endpoints --
 
