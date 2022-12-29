@@ -10,10 +10,32 @@ v1, v2, and v3, differ their return data in the following way:
 Endpoints versions:
 
   v1:
+    {
+      "name": "OA_pu3",
+      "path": "custom/OA/content",
+      "tag": "OA",
+      "weight": "0.25758766588494697"
+      "weight_unit": "microlitres"
+    }
   
   v2:
+    {
+      "name": "OA_рu3",
+      "path": "custom/OA/content"
+      "category": "OA",
+      "weight" :0.25758766588494697,
+      "weight_unit": "microlitres"
+    }
   
   v3:
+    {
+      "name" : "OA_рu3",
+      "path": "custom/OA/content",
+      "mass": 0.25758766588494697,
+      "mass_unit": "microlitres"
+      "family": "OA",
+      "User": "A. T"
+    }
   
 -- Normalizing the results --
 
