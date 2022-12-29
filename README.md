@@ -10,6 +10,7 @@ v1, v2, and v3, differ their return data in the following way:
 Endpoints versions:
 
   v1:
+ '''JSON
     {
       "name": "OA_pu3",
       "path": "custom/OA/content",
@@ -17,7 +18,7 @@ Endpoints versions:
       "weight": "0.25758766588494697"
       "weight_unit": "microlitres"
     }
-  
+ '''
   v2:
     {
       "name": "OA_рu3",
